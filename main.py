@@ -1,6 +1,6 @@
 import tkinter as tk
 import time
-
+# By Oliver
 class Game:
     def __init__(self):
         #Root setup
